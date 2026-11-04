@@ -1,6 +1,6 @@
 ---
 title: "Latency Bombs"
-date: YYYY-MM-DD
+date: 2026-01-01
 description: "<Put description here>"
 tags: ["tag"]
 # weight: 1
@@ -12,9 +12,7 @@ draft: true
 hidemeta: false
 comments: false
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

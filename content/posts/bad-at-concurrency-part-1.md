@@ -13,9 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 canonicalURL: "https://penick.io/posts/bad-at-concurrency-part-1/"
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

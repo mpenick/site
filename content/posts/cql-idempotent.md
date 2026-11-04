@@ -1,7 +1,7 @@
 ---
 title: "Parsing CQL for Idempotency"
 description: "<Put description here>"
-date: YYYY-MM-DD
+date: 2026-01-01
 # weight: 1
 # aliases: ["/first"]
 tags: ["tag"]
@@ -12,9 +12,7 @@ draft: true
 hidemeta: false
 comments: false
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
